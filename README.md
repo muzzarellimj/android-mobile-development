@@ -1,31 +1,19 @@
-# [course-name]
+# Android Mobile Application Development
 
-[Canvas](https://nku.instructure.com/courses/[course-id]) | [Contact via Email](mailto:[instructor-email]) | 
-[Contact via Teams](https://teams.microsoft.com/l/chat/0/0?users=[instructor-email])
+[Canvas](https://nku.instructure.com/courses/61473) | [Contact via Email](mailto:tiemonl1@nku.edu) | 
+[Contact via Teams](https://teams.microsoft.com/l/chat/0/0?users=tiemonl1@nku.edu)
 
 ## Course Guidelines
 
-[course-name], [course-number]-[section-number], is taught in [semester] by [instructor-name]. The required materials 
-include... The only required material is...
+Android Mobile Application Development, CSC-415, is taught in Spring '23 by Liam Tiemon. There are 
+no required materials other than the publicly available [Android documentation](https://developer.android.com/)
+and [Kotlin documentation](https://kotlinlang.org/docs/home.html).
 
-Insert a description of the course here.
+Introduces, explores, and reinforces the Android app development language, environment and software 
+development kit; examination of mobile applications and data sources; leveraging GUIs; examination 
+of Android onboard sensors and hardware.
 
-### Delivery Format
+## Assignments
 
-This course is delivered [course-medium] with assignments, quizzes, and supplemental resources made available on 
-[resource-medium].
-
-### Tentative Schedule
-
-| Week | Topic | Assignment | Comment |
-|:-----|:------|:-----------|:--------|
-
-
-## Instructor Guidelines
-
-The instructor for this course is [instructor-name], and he is available via [email](mailto:[instructor-email]), via 
-phone at [instructor-phone], or in his office at [instructor-office].
-
-### Communication
-
-The preferred method of communication is...
+| Assignment | Feature(s) | Due Date |
+|:-----------|:-----------|:---------|
