@@ -2,6 +2,10 @@ package dev.muzzarelli.android.recycler
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
+import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import dev.muzzarellimj.android.recycler.R
 
 class MainActivity : AppCompatActivity() {
@@ -133,5 +137,12 @@ class MainActivity : AppCompatActivity() {
               }
             ]
         """
+
+        val typeToken = object : TypeToken<List<God>>() {}.type
+        val gods = Gson().fromJson<List<God>>(data, typeToken)
+
+        val recyclerView: RecyclerView = findViewById(R.id.god_recycler_view)
+        recyclerView.layoutManager = LinearLayoutManager(this)
+        recyclerView.adapter = GodAdapter(gods)
     }
 }
