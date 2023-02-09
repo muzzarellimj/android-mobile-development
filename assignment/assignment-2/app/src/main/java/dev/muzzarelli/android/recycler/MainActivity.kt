@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
             [
               {
                 "id": 0,
+                "image": "jas",
                 "name": "Jas",
                 "tier": "Elder",
                 "race": "Elder God",
@@ -24,6 +25,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 1,
+                "image": "ful",
                 "name": "Ful",
                 "tier": "Elder",
                 "race": "Elder God",
@@ -31,6 +33,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 2,
+                "image": "wen",
                 "name": "Wen",
                 "tier": "Elder",
                 "race": "Elder God",
@@ -38,6 +41,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 3,
+                "image": "bik",
                 "name": "Bik",
                 "tier": "Elder",
                 "race": "Elder God",
@@ -45,6 +49,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 4,
+                "image": "mah",
                 "name": "Mah",
                 "tier": "Elder",
                 "race": "Elder God",
@@ -52,6 +57,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id":5,
+                "image": "zaros",
                 "name": "Zaros",
                 "tier": "Transcendent",
                 "race": "Transcendent God",
@@ -59,6 +65,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 6,
+                "image": "seren",
                 "name": "Seren",
                 "tier": "Transcendent",
                 "race": "Unknown",
@@ -66,6 +73,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 7,
+                "image": "guthix",
                 "name": "Guthix",
                 "tier": "Transcendent",
                 "race": "Naragi",
@@ -73,6 +81,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 8,
+                "image": "saradomin",
                 "name": "Saradomin",
                 "tier": "High",
                 "race": "Human",
@@ -80,6 +89,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 9,
+                "image": "bandos",
                 "name": "Bandos",
                 "tier": "High",
                 "race": "Unnamed -- Kal-i-kra tribe",
@@ -87,6 +97,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 10,
+                "image": "armadyl",
                 "name": "Armadyl",
                 "tier": "Experienced",
                 "race": "Aviansie",
@@ -94,6 +105,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 11,
+                "image": "zamorak",
                 "name": "Zamorak",
                 "tier": "Experienced",
                 "race": "Mahjarrat",
@@ -101,6 +113,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 12,
+                "image": "tuska",
                 "name": "Tuska",
                 "tier": "Experienced",
                 "race": "Unknown",
@@ -108,6 +121,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 13,
+                "image": "tumeken",
                 "name": "Tumeken",
                 "tier": "Inexperienced",
                 "race": "Unknown",
@@ -115,6 +129,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 14,
+                "image": "elidinis",
                 "name": "Elidinis",
                 "tier": "Inexperienced",
                 "race": "Unknown",
@@ -122,6 +137,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 15,
+                "image": "marimbo",
                 "name": "Marimbo",
                 "tier": "Inexperienced",
                 "race": "Gorilla",
@@ -129,6 +145,7 @@ class MainActivity : AppCompatActivity() {
               },
               {
                 "id": 16,
+                "image": "brassica",
                 "name": "Brassica Prime",
                 "tier": "Inexperienced",
                 "race": "Cabbage",
