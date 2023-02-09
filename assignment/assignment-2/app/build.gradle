@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'dev.muzzarellimj.android.recycler'
+    namespace 'dev.muzzarelli.android.recycler'
     compileSdk 33
 
     defaultConfig {
-        applicationId "dev.muzzarellimj.android.recycler"
+        applicationId "dev.muzzarelli.android.recycler"
         minSdk 24
         targetSdk 33
         versionCode 1

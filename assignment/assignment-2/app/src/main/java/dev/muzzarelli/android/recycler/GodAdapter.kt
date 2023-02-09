@@ -3,7 +3,6 @@ package dev.muzzarelli.android.recycler
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import dev.muzzarellimj.android.recycler.R
 
 class GodAdapter(private val gods: List<God>) : RecyclerView.Adapter<GodViewHolder>() {
 
