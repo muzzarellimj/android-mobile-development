@@ -15,6 +15,7 @@ of Android onboard sensors and hardware.
 
 ## Assignments
 
-| Assignment                                            | Due Date         |
-|:------------------------------------------------------|:-----------------|
-| [Assignment 2: RecyclerView](assignment/assignment-2) | February 9, 2023 |
+| Assignment                                              | Due Date          |
+|:--------------------------------------------------------|:------------------|
+| [Assignment 2: RecyclerView](assignment/assignment-2)   | February 9, 2023  |
+| [Assignment 3: DetailFragment](assignment/assignment-3) | February 16, 2023 |
